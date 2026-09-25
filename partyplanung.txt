@@ -1,10 +1,1 @@
-TODO Party am Samstag
-<<<<<<< HEAD
-Spiele: WERwolf
-Trinken: Sekt
-Snack: Chips
-=======
-Spiele: Werwolf
-Trinken: Punsch
-Snacks: Chips
->>>>>>> 7c96fe8 (feat(trinken): punsch)
+Neue Party
